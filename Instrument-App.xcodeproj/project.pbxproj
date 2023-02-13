@@ -106,6 +106,7 @@
 				D82DAC33299A196600C495DA /* Assets.xcassets */,
 				D82DAC35299A196600C495DA /* LaunchScreen.storyboard */,
 				D82DAC38299A196600C495DA /* Info.plist */,
+				D82DAC5A299A712C00C495DA /* Sounds */,
 			);
 			path = "Instrument-App";
 			sourceTree = "<group>";
@@ -125,6 +126,13 @@
 				D82DAC4D299A196600C495DA /* Instrument_AppUITestsLaunchTests.swift */,
 			);
 			path = "Instrument-AppUITests";
+			sourceTree = "<group>";
+		};
+		D82DAC5A299A712C00C495DA /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

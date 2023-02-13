@@ -16,6 +16,13 @@
 		D82DAC42299A196600C495DA /* Instrument_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D82DAC41299A196600C495DA /* Instrument_AppTests.swift */; };
 		D82DAC4C299A196600C495DA /* Instrument_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D82DAC4B299A196600C495DA /* Instrument_AppUITests.swift */; };
 		D82DAC4E299A196600C495DA /* Instrument_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D82DAC4D299A196600C495DA /* Instrument_AppUITestsLaunchTests.swift */; };
+		D82DAC62299A72CE00C495DA /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC5B299A72CE00C495DA /* C.wav */; };
+		D82DAC63299A72CE00C495DA /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC5C299A72CE00C495DA /* A.wav */; };
+		D82DAC64299A72CE00C495DA /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC5D299A72CE00C495DA /* E.wav */; };
+		D82DAC65299A72CE00C495DA /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC5E299A72CE00C495DA /* F.wav */; };
+		D82DAC66299A72CE00C495DA /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC5F299A72CE00C495DA /* G.wav */; };
+		D82DAC67299A72CE00C495DA /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC60299A72CE00C495DA /* B.wav */; };
+		D82DAC68299A72CE00C495DA /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = D82DAC61299A72CE00C495DA /* D.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +56,13 @@
 		D82DAC47299A196600C495DA /* Instrument-AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Instrument-AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D82DAC4B299A196600C495DA /* Instrument_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instrument_AppUITests.swift; sourceTree = "<group>"; };
 		D82DAC4D299A196600C495DA /* Instrument_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instrument_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D82DAC5B299A72CE00C495DA /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		D82DAC5C299A72CE00C495DA /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		D82DAC5D299A72CE00C495DA /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		D82DAC5E299A72CE00C495DA /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		D82DAC5F299A72CE00C495DA /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		D82DAC60299A72CE00C495DA /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		D82DAC61299A72CE00C495DA /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +145,13 @@
 		D82DAC5A299A712C00C495DA /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				D82DAC5C299A72CE00C495DA /* A.wav */,
+				D82DAC60299A72CE00C495DA /* B.wav */,
+				D82DAC5B299A72CE00C495DA /* C.wav */,
+				D82DAC61299A72CE00C495DA /* D.wav */,
+				D82DAC5D299A72CE00C495DA /* E.wav */,
+				D82DAC5E299A72CE00C495DA /* F.wav */,
+				D82DAC5F299A72CE00C495DA /* G.wav */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -239,8 +260,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D82DAC66299A72CE00C495DA /* G.wav in Resources */,
+				D82DAC64299A72CE00C495DA /* E.wav in Resources */,
+				D82DAC65299A72CE00C495DA /* F.wav in Resources */,
+				D82DAC62299A72CE00C495DA /* C.wav in Resources */,
 				D82DAC37299A196600C495DA /* LaunchScreen.storyboard in Resources */,
 				D82DAC34299A196600C495DA /* Assets.xcassets in Resources */,
+				D82DAC67299A72CE00C495DA /* B.wav in Resources */,
+				D82DAC68299A72CE00C495DA /* D.wav in Resources */,
+				D82DAC63299A72CE00C495DA /* A.wav in Resources */,
 				D82DAC32299A196500C495DA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
